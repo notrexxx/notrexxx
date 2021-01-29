@@ -15,9 +15,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaSc
 <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </p>
 <p align="center">
-📫 How to reach me emigdioleon630@gmail.com
-</p>
-<p align="center">
 +58 426 1381302
 </p>
 
