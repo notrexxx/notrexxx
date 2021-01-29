@@ -2,7 +2,7 @@
 
 
 
-A passionate Full-stack developer from Latvia
+A passionate Full-stack developer
 🌱 I’m currently learning RUBY ON RAILS
 
 📫 How to reach me oleinikovsigors@gmail.com
