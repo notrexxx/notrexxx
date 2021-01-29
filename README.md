@@ -1,13 +1,8 @@
 
-
-
-
+<img src="https://github.com/notrexxx/notrexxx/blob/main/assets/banner.png" alt="Hello world">
 A passionate Full-stack developer
 
-
-🌱 I’m currently learning RUBY ON RAILS
-
-📫 How to reach me oleinikovsigors@gmail.com
+📫 How to reach me emigdioleon630@gmail.com
 
 +58 426 1381302
 
