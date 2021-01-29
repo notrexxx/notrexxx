@@ -1,5 +1,16 @@
-### Hi there 👋
 
+
+
+
+A passionate Full-stack developer from Latvia
+🌱 I’m currently learning RUBY ON RAILS
+
+📫 How to reach me oleinikovsigors@gmail.com
+
++58 426 1381302
+
+       
+       
 <!--
 **notrexxx/notrexxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
