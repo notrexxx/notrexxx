@@ -1,6 +1,7 @@
 
-<p align="center">
+
 <img src="https://github.com/notrexxx/notrexxx/blob/main/assets/banner.png" alt="Hello world">
+<p align="center">
 Full-stack developer
 
 
