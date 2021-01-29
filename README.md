@@ -2,6 +2,7 @@
 <img src="https://github.com/notrexxx/notrexxx/blob/main/assets/banner.png" alt="Hello world">
 Full-stack developer
 
+<p align="center">
 🌱 I’m currently working with <br><br>
 <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
 <img title="CSS" alt="CSS" height=40
